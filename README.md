@@ -10,8 +10,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UnknownFrom&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UnknownFrom&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=UnknownFrom)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
