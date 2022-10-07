@@ -1,14 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Pavel)](https://git.io/typing-svg)</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownFrom&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<span style="display:block;text-align:center">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Pavel)</span>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UnknownFrom&theme=radical)
+<h1 align="center">My Stack</h1>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UnknownFrom&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UnknownFrom&theme=radical)
+<h1 align="center">My GitHub Stats</h1>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UnknownFrom&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UnknownFrom&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownFrom&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UnknownFrom&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<div align="center" style="text-align:center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownFrom&theme=radical&hide_border=true&langs_count=5&exclude_repo=chat_app_frontend,chat_app_chat_api,WebChat,AuthForm&layout=compact"/>
+</div>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -46,3 +48,5 @@ C++                      4 repos             ██░░░░░░░░░�
 
  Last Updated on 06/10/2022 20:39:00 UTC
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=UnknownFrom&color=872A56)
