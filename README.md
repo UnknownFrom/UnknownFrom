@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownFrom&theme=radical&hide_border=true&langs_count=5&exclude_repo=chat_app_frontend,chat_app_chat_api,WebChat,AuthForm&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownFrom&theme=radical&hide_border=true&langs_count=5&exclude_repo=chat_app_frontend,chat_app_chat_api,WebChat,AuthForm,distribution_coursework_ui&layout=compact"/>
 </p>
 
 <h1 align="center">My Stack</h1>
